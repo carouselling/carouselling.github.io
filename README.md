@@ -1,6 +1,6 @@
 # Hello World!
 
-My name is carouselling
+My name is carouselling. Modifying from command line. 
 
 ## Welcome to GitHub Pages
 
